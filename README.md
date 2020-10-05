@@ -1,16 +1,15 @@
-### Hi there 👋
+# Cha Cha Real Smooth
 
-<!--
-**rickjerrity/rickjerrity** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Nick. I code the things.
 
-Here are some ideas to get you started:
+⚫ Blog @ [blackhole.dev](https://blackhole.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐤 Twitter @ [twitter.com/rickjerrity](https://twitter.com/rickjerrity)
+
+### Some Projects
+
+👑 [adchamp.live](https://adchamp.live)
+
+🎥 [streame.tv](https://streame.tv)
+
+🔑 [Keybase ID](https://github.com/rickjerrity/keybase-id)
