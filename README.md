@@ -8,8 +8,6 @@ I'm Nick. I code the things.
 
 ### Some Projects
 
-👑 [adchamp.live](https://adchamp.live)
-
 🎥 [streame.tv](https://streame.tv)
 
 🔑 [Keybase ID](https://github.com/rickjerrity/keybase-id)
